@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Templates\ControllerGenerator\ApiControllerWithActions.cshtml" />
+    <None Include="Templates\ControllerGenerator\ApiControllerWithContext.cshtml" />
+    <None Include="Templates\ControllerGenerator\ApiEmptyController.cshtml" />
+    <None Include="Templates\ControllerGenerator\ControllerWithActions.cshtml" />
+    <None Include="Templates\ControllerGenerator\EmptyController.cshtml" />
+    <None Include="Templates\ControllerGenerator\MvcControllerWithContext.cshtml" />
+    <None Include="Templates\ViewGenerator\Create.cshtml" />
+    <None Include="Templates\ViewGenerator\Delete.cshtml" />
+    <None Include="Templates\ViewGenerator\Details.cshtml" />
+    <None Include="Templates\ViewGenerator\Edit.cshtml" />
+    <None Include="Templates\ViewGenerator\Empty.cshtml" />
+    <None Include="Templates\ViewGenerator\List.cshtml" />
+    <None Include="Templates\ViewGenerator\_ValidationScriptsPartial.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj" />
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Account\Data\" />
+    <Folder Include="Areas\Account\Models\" />
+    <Folder Include="Areas\Account\Views\Home\" />
+  </ItemGroup>
+
+</Project>

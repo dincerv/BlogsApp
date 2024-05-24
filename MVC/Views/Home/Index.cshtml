@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Blog App Project</h1>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <a asp-controller="Category" asp-action="Create" class="btn btn-primary">Create Category</a>
+        <a asp-controller="Category" asp-action="Index" class="btn btn-primary">View All Categories</a>
+    }
+    else
+    {
+        <p>Please <a asp-controller="Home" asp-action="Login">login</a> to manage categories.</p>
+        <a asp-controller="Users" asp-action="Create" class="btn btn-secondary">Register</a>
+    }
+</div>

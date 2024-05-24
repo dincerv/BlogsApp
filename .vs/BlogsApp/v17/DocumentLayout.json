@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dince\\source\\repos\\BlogsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\controllers\\blogtagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\blogtagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\business\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|solutionrelative:business\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\business\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|solutionrelative:business\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\business\\models\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|solutionrelative:business\\models\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\business\\models\\blogtagmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|solutionrelative:business\\models\\blogtagmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511EEAD-9B4F-4D21-A301-0A54F82D7EDA}|DataAccess\\DataAccess.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\dataaccess\\entities\\blogtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511EEAD-9B4F-4D21-A301-0A54F82D7EDA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\blogtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511EEAD-9B4F-4D21-A301-0A54F82D7EDA}|DataAccess\\DataAccess.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\dataaccess\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511EEAD-9B4F-4D21-A301-0A54F82D7EDA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\business\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|solutionrelative:business\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\business\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0D05D-BA6C-4B4A-9E0C-BB53D953524D}|Business\\Business.csproj|solutionrelative:business\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\areas\\account\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\account\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\areas\\account\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\account\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|c:\\users\\dince\\source\\repos\\blogsapp\\mvc\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19645748-870B-46CF-B014-8D1DEA07B991}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogTagsController.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\BlogTagsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\BlogTagsController.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\BlogTagsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\BlogTagsController.cs",
+              "ViewState": "AQIAAEUAAAAAzczMzMwcwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:49:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:49:42.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:49:32.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T11:49:17.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\libman.json",
+              "RelativeDocumentMoniker": "MVC\\libman.json",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\libman.json",
+              "RelativeToolTip": "MVC\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T11:47:37.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Services\\Bases\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Bases\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Services\\Bases\\ServiceBase.cs",
+              "RelativeToolTip": "Business\\Services\\Bases\\ServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:46:30.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogTagModel.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Models\\BlogTagModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\BlogTagModel.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Models\\BlogTagModel.cs",
+              "RelativeToolTip": "Business\\Models\\BlogTagModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:46:09.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogModel.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Models\\BlogModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\BlogModel.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Models\\BlogModel.cs",
+              "RelativeToolTip": "Business\\Models\\BlogModel.cs",
+              "ViewState": "AQIAABUAAABAMzMzMzMwwBIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:45:56.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\DataAccess\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\DataAccess\\Entities\\Blog.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:44:01.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:43:49.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAANDMzMzMLwC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:39:01.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogTag.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\DataAccess\\Entities\\BlogTag.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\BlogTag.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\DataAccess\\Entities\\BlogTag.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\BlogTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:44:25.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T01:12:35.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\RoleModel.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Models\\RoleModel.cs",
+              "RelativeToolTip": "Business\\Models\\RoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:08:23.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAANDMzMzMLwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T01:12:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Services\\BlogService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\BlogService.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Services\\BlogService.cs",
+              "RelativeToolTip": "Business\\Services\\BlogService.cs",
+              "ViewState": "AQIAAF0AAAAAZ2ZmZmYqwHEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:17:43.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T01:08:09.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\Business\\Services\\RoleService.cs",
+              "RelativeToolTip": "Business\\Services\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:03:39.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Areas\\Account\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Account\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Areas\\Account\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Account\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:15:17.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T01:15:23.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:06:53.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T01:08:16.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dince\\source\\repos\\BlogsApp\\MVC\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T01:07:56.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
